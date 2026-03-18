@@ -1,0 +1,5 @@
+{
+  "name": "PokeCard Collector",
+  "description": "A Pokémon card collection game with pack opening mechanics, featuring the original 151 Pokémon.",
+  "requestFramePermissions": []
+}
